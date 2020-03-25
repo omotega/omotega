@@ -1,5 +1,5 @@
 NAME:Omoyibo Oghenetega
 EMAIL:tomoyibo@gmail.com
-SLACK USERNSME:omotega
+SLACK USERNAME:omotega
 MY TRACK:backend
 COURSES:c-sharp
