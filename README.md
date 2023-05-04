@@ -1,21 +1,23 @@
-### Hi there 👋,i'm Oghenetega
+
+<h1 align="center">Hi there👋, I'm Omoyibo Oghenetega</h1>
+
+<h3 align="center">A passionate backend developer</h3>
 
 
-<!--
-**omotega/omotega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <!--
+**omotega/omotega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: tomoyibo@gmailo.com
+<!-- - 🔭 I’m currently working on life -->
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on open source projects, love collaborating and building projects.
+- 🤔 My current development stack is Nodejs,Express,MongoDB,PostgreSQL,Golang.
+- 💬 Ask me about Nodejs
+- 📫 How to reach me: tomoyibo@gmail.com
 - 😄 Pronouns: he/him...
-- ⚡ Fun fact: ...
--->
+<!-- - ⚡ Fun fact: ... -->
+<!-- --> -->
 
+#### 🦾 Software
 [![My Skills](https://skillicons.dev/icons?i=nodejs,golang,express,typescript,javascript)](https://skillicons.dev)
 
 #### 🗄 Database
