@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 #### 🗄 Database
-[![My Skills](mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
 
 ---
 #### 🔮 OS
